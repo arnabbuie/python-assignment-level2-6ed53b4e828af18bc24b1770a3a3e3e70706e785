@@ -1,0 +1,28 @@
+{"customer_id": "C3", "basket": [{"product_id": "P31", "price": 1788}], "date_of_purchase": "2019-01-03 05:09:00"}
+{"customer_id": "C5", "basket": [{"product_id": "P34", "price": 991}], "date_of_purchase": "2019-01-03 20:47:00"}
+{"customer_id": "C10", "basket": [{"product_id": "P40", "price": 601}, {"product_id": "P40", "price": 1189}, {"product_id": "P39", "price": 1813}], "date_of_purchase": "2019-01-03 07:54:00"}
+{"customer_id": "C14", "basket": [{"product_id": "P26", "price": 20}, {"product_id": "P29", "price": 353}, {"product_id": "P34", "price": 1024}], "date_of_purchase": "2019-01-03 18:32:00"}
+{"customer_id": "C23", "basket": [{"product_id": "P14", "price": 56}], "date_of_purchase": "2019-01-03 22:38:00"}
+{"customer_id": "C27", "basket": [{"product_id": "P39", "price": 1641}], "date_of_purchase": "2019-01-03 16:49:00"}
+{"customer_id": "C28", "basket": [{"product_id": "P56", "price": 1835}], "date_of_purchase": "2019-01-03 22:12:00"}
+{"customer_id": "C29", "basket": [{"product_id": "P64", "price": 536}, {"product_id": "P63", "price": 571}, {"product_id": "P61", "price": 1461}], "date_of_purchase": "2019-01-03 03:19:00"}
+{"customer_id": "C35", "basket": [{"product_id": "P33", "price": 1248}], "date_of_purchase": "2019-01-03 09:54:00"}
+{"customer_id": "C38", "basket": [{"product_id": "P12", "price": 209}], "date_of_purchase": "2019-01-03 12:13:00"}
+{"customer_id": "C49", "basket": [{"product_id": "P36", "price": 275}], "date_of_purchase": "2019-01-03 05:28:00"}
+{"customer_id": "C54", "basket": [{"product_id": "P03", "price": 1460}, {"product_id": "P02", "price": 1389}], "date_of_purchase": "2019-01-03 13:15:00"}
+{"customer_id": "C58", "basket": [{"product_id": "P41", "price": 274}], "date_of_purchase": "2019-01-03 12:19:00"}
+{"customer_id": "C66", "basket": [{"product_id": "P33", "price": 1197}, {"product_id": "P29", "price": 1067}], "date_of_purchase": "2019-01-03 23:02:00"}
+{"customer_id": "C70", "basket": [{"product_id": "P28", "price": 676}], "date_of_purchase": "2019-01-03 22:48:00"}
+{"customer_id": "C78", "basket": [{"product_id": "P38", "price": 1675}], "date_of_purchase": "2019-01-03 13:16:00"}
+{"customer_id": "C80", "basket": [{"product_id": "P10", "price": 335}], "date_of_purchase": "2019-01-03 11:21:00"}
+{"customer_id": "C86", "basket": [{"product_id": "P31", "price": 9}], "date_of_purchase": "2019-01-03 18:22:00"}
+{"customer_id": "C88", "basket": [{"product_id": "P32", "price": 1427}, {"product_id": "P25", "price": 731}, {"product_id": "P27", "price": 1942}], "date_of_purchase": "2019-01-03 12:13:00"}
+{"customer_id": "C90", "basket": [{"product_id": "P30", "price": 531}, {"product_id": "P28", "price": 880}, {"product_id": "P31", "price": 613}], "date_of_purchase": "2019-01-03 15:26:00"}
+{"customer_id": "C92", "basket": [{"product_id": "P23", "price": 1918}, {"product_id": "P34", "price": 359}], "date_of_purchase": "2019-01-03 04:10:00"}
+{"customer_id": "C100", "basket": [{"product_id": "P37", "price": 549}, {"product_id": "P37", "price": 1792}, {"product_id": "P36", "price": 1201}], "date_of_purchase": "2019-01-03 15:32:00"}
+{"customer_id": "C102", "basket": [{"product_id": "P59", "price": 1918}, {"product_id": "P53", "price": 388}], "date_of_purchase": "2019-01-03 22:20:00"}
+{"customer_id": "C104", "basket": [{"product_id": "P35", "price": 311}, {"product_id": "P37", "price": 1267}, {"product_id": "P40", "price": 1403}], "date_of_purchase": "2019-01-03 14:49:00"}
+{"customer_id": "C107", "basket": [{"product_id": "P62", "price": 329}, {"product_id": "P62", "price": 245}, {"product_id": "P62", "price": 172}], "date_of_purchase": "2019-01-03 18:39:00"}
+{"customer_id": "C117", "basket": [{"product_id": "P42", "price": 455}], "date_of_purchase": "2019-01-03 17:08:00"}
+{"customer_id": "C119", "basket": [{"product_id": "P24", "price": 1204}, {"product_id": "P34", "price": 1830}, {"product_id": "P23", "price": 1162}], "date_of_purchase": "2019-01-03 05:34:00"}
+{"customer_id": "C122", "basket": [{"product_id": "P60", "price": 1771}], "date_of_purchase": "2019-01-03 06:55:00"}
