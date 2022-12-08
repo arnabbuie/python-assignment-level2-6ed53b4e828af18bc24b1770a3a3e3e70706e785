@@ -102,6 +102,6 @@ final_output = output[['customer_id',
                        'purchase_count']]
 
 ##final output as csv
-final_output.to_csv('final_output.csv')
+#final_output.to_csv('final_output.csv')
 ##final output as json
 final_output.to_json('final_output.json')
